@@ -1,0 +1,238 @@
+body{
+  font-family: 'Barlow', sans-serif;
+  width: 100%;
+}
+
+a{
+  color: black;
+}
+a:hover{
+  color: #F1B763;
+}
+/* TEST */
+.test{
+  display: flex;
+  margin-left: 550px;
+  margin-right: 550px;
+  margin-top: 25px;
+  border-bottom: 1.1px solid;
+  color: #ededee;
+}
+
+.test img{
+  margin-left: 180px;
+  height: 200px;
+  width: 210px;
+  margin-bottom: 45px;
+}
+
+/* NAVIGATION */
+.navigation{
+margin-top: 50px
+}
+/*
+.navigation img{
+  width: 1100px;
+  margin: 0px;
+  margin-top: -14px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+} */
+
+.navigation ul{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 390px;
+  padding-right: 390px;
+  margin-top: -7px;
+  margin-left: 200px;
+  margin-right: 150px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0px;
+}
+
+.navigation li{
+  list-style: none;
+  padding-right: 80px;
+  margin-right: -20px;:
+}
+
+/* SECTION 1 */
+.section{
+  display: flex;
+  margin-top: 30px;
+}
+
+.section1 img{
+  width: 1204px;
+  margin-left: 220px;
+  margin-right: auto;
+}
+
+/* SECTION 2 */
+.section2{
+  display: flex;
+  margin-top: 30px;
+}
+
+.section2 img{
+  width: 35%;
+  height: 35%;
+  /* padding-right: -50px; */
+  margin-left: 220px;
+  margin-right: -190px;
+}
+
+/* SECTION 3 */
+.section3 img{
+  width: 25%;
+  height: 25%;
+  margin-top: 35px;
+  margin-left: 1009px;
+}
+
+.tableau{
+  margin-left: 1050px;
+  margin-top: -200px;
+  color: white;
+  line-height: 20px;
+}
+
+.tarif{
+  text-align: center;
+  margin-left: 13%;
+  margin-right: 715px;
+  margin-top: -344px;
+  border: 1px solid #ededee;
+  padding-top: 7.8%;
+  padding-bottom: 11.4%;
+
+}
+
+/* SECTION 4 */
+.section4{
+  margin-top: 2.5%;
+  margin-right: 14.9%;
+}
+
+.movie{
+  margin-left: 15.2%;
+
+}
+
+.movieText{
+  text-align: center;
+  margin-left: 57.3%;
+  margin-top: -22.3%;
+  padding-top: 9.8%;
+  padding-bottom: 8.1%;
+  padding-left: 0%;
+  border: 1px solid #ededee;
+
+}
+
+/* FOOTER */
+footer{
+  margin-top: 5%;
+  text-align: center;
+}
+
+/* PAGE 2 COURS ET TARIFS */
+
+/* SECTION 1 */
+.collectif{
+    display: flex;
+    margin-top: 6%;
+  }
+
+.collectif img{
+    width: 35%;
+    height: 35%;
+    /* padding-right: -50px; */
+    margin-left: 220px;
+    margin-right: -190px;
+  }
+
+  .creneaux{
+    color: black;
+    margin-left: 13.5%;
+    margin-top: 0%;
+    border: 1px solid #ededee;
+    padding-left: 12%;
+    padding-top: 7%;
+    padding-right: 12%;
+    padding-bottom: 9.3%;
+  }
+
+/* Section 2 */
+.pageTarifs{
+  text-align: center;
+  border: 1px solid #ededee;
+  margin-top: 3%;
+  margin-left: 13%;
+  margin-right: 15.4%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+}
+
+/* SECTION 3 PAGE 2 */
+.section32{
+  margin-top: 3.5%;
+  margin-right: 14.9%;
+}
+
+.stageMovie{
+  margin-left: 15.2%;
+
+}
+
+.dates{
+  text-align: center;
+  margin-left: 57.3%;
+  margin-top: -22.3%;
+  padding-top: 9.8%;
+  padding-bottom: 6.7%;
+  padding-left: 0%;
+  border: 1px solid #ededee;
+
+}
+
+/* PAGE 3 EQUIPE ET CONTACT */
+.section13{
+
+}
+
+.section13 img{
+  width: 73%;
+  margin-left: 12%;
+  margin-right: 30%;
+}
+
+.nathalie{
+  font-size: 25px;
+  margin-left: 21%;
+}
+
+.julia{
+  font-size: 25px;
+  margin-left: 48%;
+  margin-top: -1.7%;
+}
+
+.megane{
+  font-size: 25px;
+  margin-left: 71%;
+  margin-top: -1.8%;
+}
+
+.contactezNous{
+  text-align: center;
+  border: 1px solid #ededee;
+  margin-top: 3%;
+  margin-left: 12%;
+  margin-right: 14.9%;
+  padding-top: 5%;
+  padding-bottom: 5%;
